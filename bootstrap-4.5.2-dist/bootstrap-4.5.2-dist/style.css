@@ -1,0 +1,27 @@
+main{
+    height: 50px;
+    text-align: center;
+    font-style: normal;
+    margin: 30px 30px 30px;
+    padding: 50%
+    padding-bottom: 50px;
+
+}
+
+footer{
+    text-align: justify;
+    padding: 50px;
+    background-color: gray;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
+
+@media only screen and (min-width: 768px){
+    
+    
+}
+
+
